@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bonusmarks/static/css/main.073c9b0a.css",
+    "main.js": "/bonusmarks/static/js/main.e98473ab.js",
+    "static/js/787.3c9f84eb.chunk.js": "/bonusmarks/static/js/787.3c9f84eb.chunk.js",
+    "static/media/logo.svg": "/bonusmarks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bonusmarks/index.html",
+    "main.073c9b0a.css.map": "/bonusmarks/static/css/main.073c9b0a.css.map",
+    "main.e98473ab.js.map": "/bonusmarks/static/js/main.e98473ab.js.map",
+    "787.3c9f84eb.chunk.js.map": "/bonusmarks/static/js/787.3c9f84eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e98473ab.js"
+  ]
+}
